@@ -130,11 +130,8 @@ Click the ⚙️ settings icon in the app and paste in your free [Gemini API key
 ## 📸 Screenshots
 
 | Multilingual Interface | AI Waste Scanning | Hyperlocal Recycler Map |
-|:---:|:---:|:---:|
-| *<img width="237" height="233" alt="image" src="https://github.com/user-attachments/assets/12262f31-54a1-4dbf-84ea-54039efb7a6e" />
-* | *<img width="815" height="388" alt="image" src="https://github.com/user-attachments/assets/c26c9d86-20bb-4d8f-a1a3-40c482d20590" />
-* | *<img width="764" height="436" alt="image" src="https://github.com/user-attachments/assets/6d2df48c-cf72-4941-80a9-ef8b04542817" />
- |
+
+
 
 > Replace the placeholders above with real screenshots — drag and drop images directly into this section on GitHub, or add them to a `/screenshots` folder and reference them like:
 > `![Multilingual UI](screenshots/multilingual.png)`
