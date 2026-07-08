@@ -131,12 +131,10 @@ Click the ⚙️ settings icon in the app and paste in your free [Gemini API key
 
 | Multilingual Interface | AI Waste Scanning | Hyperlocal Recycler Map |
 |:---:|:---:|:---:|
-| <img width="242" height="222" alt="image" src="https://github.com/user-attachments/assets/d72fa181-1ea4-4aac-91ae-ff588c7e88b0" />
-* | <img width="963" height="548" alt="image" src="https://github.com/user-attachments/assets/aaac3c36-2171-4b99-97a5-35ce2dcc6599" />
- | <img width="895" height="603" alt="image" src="https://github.com/user-attachments/assets/dcb15ca6-ff1d-4aeb-bf54-abaaa064109b" />
+| *<img width="237" height="233" alt="image" src="https://github.com/user-attachments/assets/12262f31-54a1-4dbf-84ea-54039efb7a6e" />
+* | *<img width="815" height="388" alt="image" src="https://github.com/user-attachments/assets/c26c9d86-20bb-4d8f-a1a3-40c482d20590" />
+* | *<img width="764" height="436" alt="image" src="https://github.com/user-attachments/assets/6d2df48c-cf72-4941-80a9-ef8b04542817" />
  |
-
-
 
 > Replace the placeholders above with real screenshots — drag and drop images directly into this section on GitHub, or add them to a `/screenshots` folder and reference them like:
 > `![Multilingual UI](screenshots/multilingual.png)`
