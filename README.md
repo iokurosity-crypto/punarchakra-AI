@@ -131,9 +131,10 @@ Click the ⚙️ settings icon in the app and paste in your free [Gemini API key
 
 | Multilingual Interface | AI Waste Scanning | Hyperlocal Recycler Map |
 |:---:|:---:|:---:|
-|<img width="262" height="221" alt="image" src="https://github.com/user-attachments/assets/1958aa14-bacf-4039-b918-0f94eddf2692" />|
-<img width="888" height="663" alt="image" src="https://github.com/user-attachments/assets/6d57dfae-02bb-4087-bcd3-c38964d5a93e" />|
-<img width="987" height="542" alt="image" src="https://github.com/user-attachments/assets/0368f6ef-3df4-441d-ae1e-b2f358a1d5af" />|
+| <img width="242" height="222" alt="image" src="https://github.com/user-attachments/assets/d72fa181-1ea4-4aac-91ae-ff588c7e88b0" />
+* | <img width="963" height="548" alt="image" src="https://github.com/user-attachments/assets/aaac3c36-2171-4b99-97a5-35ce2dcc6599" />
+ | <img width="895" height="603" alt="image" src="https://github.com/user-attachments/assets/dcb15ca6-ff1d-4aeb-bf54-abaaa064109b" />
+ |
 
 
 
