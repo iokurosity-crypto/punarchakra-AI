@@ -28,7 +28,7 @@ Most waste apps stop at telling you "this is plastic." We go further: we tell yo
 
 ## 🎥 Live Demo
 
-▶️ **Watch the full demo video here:** [Add your YouTube link here]
+▶️ **Watch the full demo video here:** [https://www.youtube.com/watch?v=8SO5I8MJsnU]
 
 *(Paste your unlisted/public YouTube demo link above once uploaded)*
 
@@ -155,14 +155,13 @@ Click the ⚙️ settings icon in the app and paste in your free [Gemini API key
 
 ---
 
-## 👥 Team
+## 👥 Individual
 
-| Name | Role |
-|------|------|
-| *[Your Name]* | *[Your Role]* |
-| *[Teammate Name]* | *[Role]* |
+Name:Kashis Makwana
+Branch:Information Technology
 
-**College:** Gujarat Technological University
+
+**College:** L.D College of Engineering
 **Challenge:** Maverick Effect AI Challenge 2026 – Season 3
 
 ---
