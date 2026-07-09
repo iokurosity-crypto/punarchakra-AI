@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Punarchakra AI
+# 🌿 Punarchakra AI([https://punarchakra-ai.vercel.app/])
 
 ### From Waste to Worth
 
@@ -29,8 +29,7 @@ Most waste apps stop at telling you "this is plastic." We go further: we tell yo
 ## 🎥 Live Demo
 
 ▶️ **Watch the full demo video here:** [https://www.youtube.com/watch?v=8SO5I8MJsnU]
-
-*(Paste your unlisted/public YouTube demo link above once uploaded)*
+▶️**Try App Now:** [https://punarchakra-ai.vercel.app/]
 
 ---
 
