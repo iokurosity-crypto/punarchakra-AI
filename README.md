@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Punarchakra AI([https://punarchakra-ai.vercel.app/])
+# 🌿 Punarchakra AI (https://punarchakra-ai.vercel.app/)
 
 ### From Waste to Worth
 
